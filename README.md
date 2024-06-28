@@ -9,3 +9,5 @@ to list tags :git tag -l
 
 to delete tag locally:git tag -d <tag-name>
 to delete tag remotely:git push origin --delete <tag-name>
+
+![picture](https://github.com/gihannazmy/lab2/assets/167586570/ddb73844-e57f-4151-8be4-c9b0f2025435)
